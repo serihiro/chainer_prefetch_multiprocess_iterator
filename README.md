@@ -1,5 +1,11 @@
+# WARNING!!
+- All souce codes stored in this repository is just a part of all for now (3/12/2019).
+- So now you can not execute the benchmark or example in this repository.
+- I will update this repository so that everyone can execute all sample scripts.
+- Please wait for my returning to Japan after BDCAT '19 :bowing_man:
+
 # Chainer PrefetchMultiprocessIterator
-- This is a reference implementation of [this study](http://id.nii.ac.jp/1001/00198056/) [1].
+- This is a reference implementation of [this paper](https://dl.acm.org/citation.cfm?id=3368768) [1].
 
 # Overview
 - This is an iterator implementation for [Chainer](https://chainer.org/)
@@ -20,4 +26,4 @@
 
 # References
 
-[1] Kazuhiro Serizawa and Osamu Tatebe. Automatic optimization for accelerating deep neural network training. In IPSJ SIG Technical Report, Vol. 2019-HPC-168, pp. 1–10, 2019 (In Japanese).
+[1] Kazuhiro Serizawa and Osamu Tatebe. 2019. Accelerating Machine Learning I/O by Overlapping Data Staging and Mini-batch Generations. In Proceedings of the 6th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT '19). ACM, New York, NY, USA, 31-34. DOI: https://doi.org/10.1145/3365109.3368768
